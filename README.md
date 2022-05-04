@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ComOnDaStix
+- 👋 Hi, I’m Com
 - 👀 I’m interested in Learning more about code.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on a bunch of stuff!
